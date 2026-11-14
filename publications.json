@@ -1,0 +1,146 @@
+[
+  {
+    "year": 2026,
+    "type": "journal",
+    "title": "Edge-enhanced distributed downlink power control and UE association in scalable cell-free massive MIMO systems",
+    "authors": "X. Liao, Y. Zhang, P. Liu, J. Wang, W. Zhan, G. Interdonato, and S. Buzzi",
+    "venue": "IEEE Transactions on Wireless Communications",
+    "note": "Corresponding author"
+  },
+  {
+    "year": 2026,
+    "type": "conference",
+    "title": "Multi-waveguide pinching antenna placement optimization for rate maximization",
+    "authors": "Y. Zhang, Y. Fu, P. Liu, Y. Liu, and K. Hung",
+    "venue": "IEEE ICC 2026",
+    "note": ""
+  },
+  {
+    "year": 2025,
+    "type": "journal",
+    "title": "Optimizing energy efficiency in cell-free massive MIMO systems: A distributed DNN-driven method",
+    "authors": "X. Liao, Y. Zhang, P. Liu, and Y. Fu",
+    "venue": "IEEE Wireless Communications Letters, 14(11), 3435–3439",
+    "note": "Corresponding author"
+  },
+  {
+    "year": 2025,
+    "type": "journal",
+    "title": "Reconfigurable Holographic Surface Beamforming via Unrolled Algorithm",
+    "authors": "X. He, G. Zeng, Z. Chen, and Y. Zhang",
+    "venue": "IEEE Wireless Communications Letters",
+    "note": ""
+  },
+  {
+    "year": 2025,
+    "type": "conference",
+    "title": "DNN-based distributed downlink power control in user-centric cell-free massive MIMO systems",
+    "authors": "X. Liao, Y. Zhang, P. Liu, J. Wang, W. Zhan, G. Interdonato, and S. Buzzi",
+    "venue": "IEEE SPAWC 2025",
+    "note": ""
+  },
+  {
+    "year": 2025,
+    "type": "conference",
+    "title": "Channel estimation aware NMSE performance analysis for multi-cell massive MIMO systems",
+    "authors": "P. Liu, Y. Zhang, K. Wang, W. Gao, G. Interdonato, S. Buzzi, and G. Mylonopoulos",
+    "venue": "IEEE BlackSeaCom 2025",
+    "note": "Best Paper Award"
+  },
+  {
+    "year": 2025,
+    "type": "conference",
+    "title": "Enhancing mobile crowdsensing efficiency: A coverage-aware resource allocation approach",
+    "authors": "Y. Fu, Y. Zhang, Zheng Shi, Yongna Guo, and Y. Liu",
+    "venue": "IEEE VTC-Spring 2025",
+    "note": ""
+  },
+  {
+    "year": 2024,
+    "type": "journal",
+    "title": "Deep reinforcement learning based joint cooperation clustering and downlink power control for cell-free massive MIMO",
+    "authors": "M. Du, X. Sun, Y. Zhang, J. Wang, and P. Liu",
+    "venue": "China Communications, 21(11), 1–14",
+    "note": "Cover article"
+  },
+  {
+    "year": 2024,
+    "type": "journal",
+    "title": "Utility maximization for wireless content caching networks with diversified recommendation",
+    "authors": "Y. Fu, Y. Zhang, Z. Shi, H. Wang, and Q. Yu",
+    "venue": "IEEE Transactions on Vehicular Technology, 73(5), 7453–7458",
+    "note": "Corresponding author"
+  },
+  {
+    "year": 2024,
+    "type": "conference",
+    "title": "Subband and sensing task allocation for next-generation mobile crowdsensing networks: An optimal framework",
+    "authors": "Y. Fu, Y. Zhang, Zheng Shi, H. Wang, and Y. Liu",
+    "venue": "IEEE WCNC 2024",
+    "note": ""
+  },
+  {
+    "year": 2023,
+    "type": "journal",
+    "title": "Revenue maximization: The interplay between personalized bundle recommendation and wireless content caching",
+    "authors": "Y. Fu, Y. Zhang, A. K. Y. Wong, and T. Q. S. Quek",
+    "venue": "IEEE Transactions on Mobile Computing, 22(7), 4253–4265",
+    "note": "Corresponding author"
+  },
+  {
+    "year": 2023,
+    "type": "journal",
+    "title": "Performance analysis for MIMO-NOMA systems with transceivers and group-wise SIC",
+    "authors": "R. Zhang, X. Hu, H. Liu, Y. Zhang, Z. Luo, and H. Wang",
+    "venue": "IEEE Transactions on Vehicular Technology, 72(12), 16221–16235",
+    "note": ""
+  },
+  {
+    "year": 2023,
+    "type": "journal",
+    "title": "Precoding design for multi-group MIMO-NOMA scheme with SIC residual analysis",
+    "authors": "R. Zhang, H. Liu, S.-H. Leung, Y. Zhang, W. Tang, H. Wang, Z. Luo, and S. Roy",
+    "venue": "IEEE Transactions on Vehicular Technology, 72(4), 4733–4750",
+    "note": ""
+  },
+  {
+    "year": 2022,
+    "type": "journal",
+    "title": "Joint content caching, recommendation, and transmission optimization for next generation multiple access networks",
+    "authors": "Y. Fu, Y. Zhang, Q. Zhu, M. Chen, and T. Q. S. Quek",
+    "venue": "IEEE Journal on Selected Areas in Communications, 40(5), 1600–1614",
+    "note": "Corresponding author"
+  },
+  {
+    "year": 2021,
+    "type": "journal",
+    "title": "Optimal BS deployment and user association for 5G millimeter wave communication networks",
+    "authors": "Y. Zhang, L. Dai, and E. W. M. Wong",
+    "venue": "IEEE Transactions on Wireless Communications, 20(5), 2776–2791",
+    "note": ""
+  },
+  {
+    "year": 2020,
+    "type": "journal",
+    "title": "On the optimal placement of base station antennas for distributed antenna systems",
+    "authors": "Y. Zhang and L. Dai",
+    "venue": "IEEE Communications Letters, 24(12), 2878–2882",
+    "note": ""
+  },
+  {
+    "year": 2020,
+    "type": "conference",
+    "title": "Joint optimization of placement and coverage of access points for IEEE 802.11 networks",
+    "authors": "Y. Zhang and L. Dai",
+    "venue": "IEEE ICC 2020",
+    "note": ""
+  },
+  {
+    "year": 2019,
+    "type": "journal",
+    "title": "A closed-form approximation for uplink average ergodic sum capacity of large-scale multi-user distributed antenna systems",
+    "authors": "Y. Zhang and L. Dai",
+    "venue": "IEEE Transactions on Vehicular Technology, 68(2), 1745–1756",
+    "note": ""
+  }
+]
